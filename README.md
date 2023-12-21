@@ -5,7 +5,7 @@
 ## Screenshot der Anwendung mit UnityOberfläche
 ![image](https://github.com/SchwarznachtStudios-Rainbowwhite/Test_1_UnityEngine_KiraHeinicke/assets/122087498/45517bb0-0429-4a2e-94b2-67cd1b4f0fb8)
 
-## BakedScene
+## BakedScene (Lightprobe und Scene selbst nicht gebaked)
 ![image](https://github.com/SchwarznachtStudios-Rainbowwhite/Test_1_UnityEngine_KiraHeinicke/assets/122087498/1d99bcd5-2308-4537-8716-8348974e23e1)
 
 ## Realtime Scene
